@@ -1,0 +1,20 @@
+{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: rgb(140,102,102)
+    text-align: center;
+    line-align: 2.1;
+}
+
+.hero img{
+    border-radius: 50; 
+}
+
+.accent{
+    color: rgb (114,46,18);
+}
